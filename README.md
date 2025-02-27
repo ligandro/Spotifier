@@ -1,5 +1,9 @@
 # Spotifier
 
+<p align="center">
+  <img width="100%" src="./images/sample.jpg"> &nbsp &nbsp
+</p>
+
 ## Overview
 Simple Python script that generates a table of your song listening history using data from **Spotipy API**.
 
