@@ -15,6 +15,7 @@ Visualization: Generates visualization to display your listening habits over tim
 
 ### 1. Clone the Repository:
 git clone https://github.com/ligandro/Spotifier.git 
+
 cd ligandro/Spotifier.git 
 
 ### 2. Set Up a Virtual Environment (optional but recommended):
