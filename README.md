@@ -14,16 +14,22 @@ Visualization: Generates visualization to display your listening habits over tim
 ## Installation 
 
 ### 1. Clone the Repository:
-git clone https://github.com/ligandro/Spotifier.git 
-
+```bash
+git clone https://github.com/ligandro/Spotifier.git
 cd ligandro/Spotifier.git 
+```
 
 ### 2. Set Up a Virtual Environment (optional but recommended):
+
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
+```
 ### 3. Install Dependencies:
+
+```bash
 pip install -r requirements.txt
+```
 
 
 ## How It Works
