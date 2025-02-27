@@ -1,0 +1,10 @@
+pandas
+matplotlib
+highlight_text
+Pillow
+urllib3
+requests
+json
+argparse
+spotipy
+mplsoccer
