@@ -37,9 +37,9 @@ The script uses the Spotipy API to get your recent song listening data. It allow
 
 ## Usage
 Run the Script:
-
+```bash
 python main.py --client_id "your_client_id" --client_secret "your_client_secret" --redirect_uri "your_redirect_uri"
-
+```
 Client ID, Client Secret can be obtained from Spotify Developers website.  You cam use this video as reference https://youtu.be/0fhkkkRuUxw
 
 ##  Contributing and Contact
